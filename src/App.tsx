@@ -1,10 +1,9 @@
-import './App.css'
 
 function App() {
 
   return (
     <>
-      <p>Updated the code !!!</p>
+      <p>Updated the React code !!!</p>
     </>
   )
 }
